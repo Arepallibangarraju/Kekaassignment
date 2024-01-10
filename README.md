@@ -80,6 +80,20 @@ SCREENSHOTS
 ![6](https://github.com/Arepallibangarraju/Kekaassignment/assets/84339229/1c738038-3ecd-434f-a345-33cb0b48a4d2)
 
 
+PYTHON,HTML,CSS,JAVASCRIPT CODES ARE PUSHED INTO GIT REPOSITORY (MASTER)
+
+STEP 1 : Initialize a Git repository in your project folder if you haven't done it already: git init
+
+STEP 2 : Add your files to the Git repository: git add .
+
+STEP 3 : Commit the changes: git commit -m "Initial commit"
+
+STEP 4: Set up a remote repository (replace <repository_url> with your repository URL): git remote add origin <repository_url>
+
+STEP 5 : Push the changes to the remote repository: git push -u origin master
+
+
+
 
 
 
